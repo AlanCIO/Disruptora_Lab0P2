@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-def printBoundaryDecision():
+def printBoundaryDecision(pairidx):
   plot_colors = "ryb"  # Paramétro para el color de la figura
   plot_step = 0.02     # Parámetro para la figura
   # Imprimir el límite de decisión
