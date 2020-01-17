@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 def printBoundaryDecision():
   plot_colors = "ryb"  # Paramétro para el color de la figura
   plot_step = 0.02     # Parámetro para la figura
